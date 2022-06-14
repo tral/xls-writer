@@ -1,11 +1,11 @@
 {
-    "name": "maxakawizard/xls-writer",
-    "description": "Port of PEAR Spreadsheet Excel Writer",
+    "name": "tral/xls-writer",
+    "description": "Fixed maxakawizard/xls-writer compatible with php 8.0",
     "authors": [
         {
-            "email": "maxakawizard@gmail.com",
-            "name": "Max Grigorian",
-            "homepage": "https://github.com/MAXakaWIZARD"
+            "email": "tralmail@gmail.com",
+            "name": "Aleksei Trubnikov",
+            "homepage": "https://github.com/tral/xls-writer"
         }
     ],
     "license": "MIT",
